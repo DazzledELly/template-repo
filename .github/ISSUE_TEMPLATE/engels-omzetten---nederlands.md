@@ -11,7 +11,7 @@ assignees: ''
 **Zie je in de repository een .html  en/of .js die vertaald moet worden?**
 
 
-**Geef andere nodige file namen in die outputs in het engels geven**
+<br><br>**Geef andere nodige file namen in die outputs in het engels geven**
 
 
 **Zit dit script momenteel al in de server en lopende?**
