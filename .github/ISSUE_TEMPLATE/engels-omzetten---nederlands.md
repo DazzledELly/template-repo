@@ -8,16 +8,16 @@ assignees: ''
 
 ---
 
-**Zie je in de repository een .html  en/of .js die vertaald moet worden?**
+<br>**Zie je in de repository een .html  en/of .js die vertaald moet worden?**
 
 
-<br><br>**Geef andere nodige file namen in die outputs in het engels geven**
+<br>**Geef andere nodige file namen in die outputs in het engels geven**
 
 
-**Zit dit script momenteel al in de server en lopende?**
+<br>**Zit dit script momenteel al in de server en lopende?**
 
 
-**Wat geberude er na de error?**
+<br>**Wat geberude er na de error?**
 
 
-**Extra informatie**
+<br>**Extra informatie**
