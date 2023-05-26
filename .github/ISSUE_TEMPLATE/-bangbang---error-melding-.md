@@ -1,5 +1,5 @@
 ---
-name: ":bangbang: -Error melding "
+name: "Error melding "
 about: Geef hier je melding in die je vond in console of in TxAdmin
 title: Melding error
 labels: ''
