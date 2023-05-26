@@ -1,7 +1,7 @@
 ---
 name: 'Error melding '
 about: Geef hier je melding in die je vond in console of in TxAdmin
-title: Melding error
+title: verhelpen van een error melding
 labels: ''
 assignees: ''
 
